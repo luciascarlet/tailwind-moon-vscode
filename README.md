@@ -4,5 +4,4 @@ A soothing dark theme based on Tailwind CSS default color scheme. This theme was
 
 ## Installation
 
-## Screenshots
-
+VS Code Marketplace: https://marketplace.visualstudio.com/manage/publishers/shadowblood/extensions/tailwind-moon/hub

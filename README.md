@@ -3,6 +3,9 @@
 A soothing dark theme based on Tailwind CSS default color scheme. This theme was based on Praveen Puglia's excellent "Tailwind Breeze" theme and is meant as a dark counterpart for those who like having matching light and dark themes for their text editor.
 
 ## Changelog
+### 2.3.2
+- Required due to README.md edit
+
 ### 2.3.0
 - Changed terminal background colour to fit text editor.
 - Changed Git colours to be less intrusive.

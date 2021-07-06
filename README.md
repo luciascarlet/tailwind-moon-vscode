@@ -16,4 +16,4 @@ A soothing dark theme based on Tailwind CSS default color scheme. This theme was
 VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=shadowblood.tailwind-moon
 
 ## Screenshots
-![Screenshot of Tailwind Moon theme with sample code](./screenshots/scr_1.png)
+![Screenshot of Tailwind Moon theme with sample code](screenshots/scr_1.png)

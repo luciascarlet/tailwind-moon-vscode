@@ -32,7 +32,7 @@
     "badge.foreground": "#374151",
     "badge.background": "#A78BFA",
     "progressBar.background": "#34D399",
-    "list.activeSelectionBackground": "#374151",
+    "list.activeSelectionBackground": "#4B5563",
     "list.activeSelectionForeground": "#F3F4F6",
     "list.dropBackground": "#a0aec0",
     "list.focusBackground": "#a0aec0",

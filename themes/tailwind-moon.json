@@ -270,7 +270,7 @@
       "name": "XML Tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#67e8f9"
+        "foreground": "#60A5FA"
       }
     },
     {

@@ -2,7 +2,7 @@
   "name": "tailwind-moon",
   "displayName": "Tailwind Moon",
   "description": "A matching dark theme for Tailwind Breeze by Praveen Puglia, which is based on the Tailwind CSS default color scheme.",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "publisher": "shadowblood",
   "author": "Lucia Lovelace, Praveen Puglia",
   "repository": {"type": "git", "url": "https://github.com/luciascarlet/tailwind-moon-vscode"},

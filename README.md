@@ -9,7 +9,7 @@ A soothing dark theme based on Tailwind CSS default color scheme. This theme was
 
 ### 2.4
 - Added _Tailwind Moon Gray_ theme using Tailwind's `colors.gray` palette instead of `colors.coolGray`
-- Added _Tailwind Moon Blue theme using Tailwind's `colors.blueGray` palette instead of `colors.coolGray`
+- Added _Tailwind Moon Blue_ theme using Tailwind's `colors.blueGray` palette instead of `colors.coolGray`
 - Fixed selected list item background colour being identical to the widget background, making focused items in the Command Palette hard to distinguish
 
 ### 2.3.2

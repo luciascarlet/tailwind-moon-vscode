@@ -270,14 +270,14 @@
       "name": "XML Tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#A78BFA"
+        "foreground": "#67e8f9"
       }
     },
     {
       "name": "XML Attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#22d3ee"
+        "foreground": "#67e8f9"
       }
     },
     {
@@ -292,7 +292,7 @@
       // "scope": "entity.name.type, support.type",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#22d3ee"
+        "foreground": "#67e8f9"
       }
     },
     {
@@ -304,7 +304,7 @@
     },
     {
       "name": "Keyword",
-      "scope": "keyword, support.type.primitive",
+      "scope": "keyword",
       "settings": {
         "foreground": "#A78BFA"
       }

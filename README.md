@@ -3,6 +3,10 @@
 A soothing dark theme based on Tailwind CSS default color scheme. This theme was based on Praveen Puglia's excellent "Tailwind Breeze" theme and is meant as a dark counterpart for those who like having matching light and dark themes for their text editor.
 
 ## Changelog
+## 2.5.1
+- Changed HTML tags to blue to avoid collision with control keywords
+- Use 300 cyan for better visibility
+
 ### 2.5
 - Added a new cyan colour for HTML attributes and function calls
 - Changed HTML attribute colour to purple, in order to make React components distinct in JSX

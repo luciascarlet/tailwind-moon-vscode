@@ -3,9 +3,13 @@
 A soothing dark theme based on Tailwind CSS default color scheme. This theme was based on Praveen Puglia's excellent "Tailwind Breeze" theme and is meant as a dark counterpart for those who like having matching light and dark themes for their text editor.
 
 ## Changelog
+### 2.5
+- Added a new cyan colour for HTML attributes and function calls
+- Changed HTML attribute colour to purple, in order to make React components distinct in JSX
+
 ### 2.4
-- Added _Tailwind Moon Gray_ theme using Tailwind's `colors.gray` palette instead of `colors.coolGrey`
-- Added _Tailwind Moon Blue theme using Tailwind's `colors.blueGray` palette instead of `colors.coolGrey`
+- Added _Tailwind Moon Gray_ theme using Tailwind's `colors.gray` palette instead of `colors.coolGray`
+- Added _Tailwind Moon Blue theme using Tailwind's `colors.blueGray` palette instead of `colors.coolGray`
 - Fixed selected list item background colour being identical to the widget background, making focused items in the Command Palette hard to distinguish
 
 ### 2.3.2

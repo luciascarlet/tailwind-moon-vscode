@@ -222,7 +222,7 @@
     "terminal.ansiRed": "#C53030",
     "terminal.ansiWhite": "#334155",
     "terminal.ansiYellow": "#D69E2E",
-    "terminal.selectionBackground": "#1E293B",
+    "terminal.selectionBackground": "#A78BFA22",
     "terminalCursor.background": "#334155",
     "terminalCursor.foreground": "#4a5568",
     "debugToolBar.background": "#334155",

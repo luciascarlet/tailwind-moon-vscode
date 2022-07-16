@@ -1,8 +1,12 @@
-# Tailwind Moon
+# Tailwind Colour Themes
 
-A soothing dark theme based on Tailwind CSS default color scheme. This theme was based on Praveen Puglia's excellent "Tailwind Breeze" theme and is meant as a dark counterpart for those who like having matching light and dark themes for their text editor.
+A set of matching dark and light themes based on Tailwind CSS's default color scheme. These themes were based on Praveen Puglia's excellent "Tailwind Breeze" theme.
 
 ## Changelog
+## 3.0.0
+- Added Tailwind Ice theme, a light theme based on the Tailwind Moon 2.5 syntax highlighting
+- Changed name of extension
+
 ## 2.5.3
 - Fixed terminal selection colours
 - Fixed double squiggly lines

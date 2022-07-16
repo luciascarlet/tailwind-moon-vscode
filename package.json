@@ -1,11 +1,14 @@
 {
   "name": "tailwind-moon",
-  "displayName": "Tailwind Moon",
-  "description": "A matching dark theme for Tailwind Breeze by Praveen Puglia, which is based on the Tailwind CSS default color scheme.",
-  "version": "2.5.3",
+  "displayName": "Tailwind Colour Themes",
+  "description": "A set of matching themes based on the Tailwind colour scheme, based on Tailwind Breeze by Praveen Puglia.",
+  "version": "3.0.0",
   "publisher": "shadowblood",
   "author": "Lucia Lovelace, Praveen Puglia",
-  "repository": {"type": "git", "url": "https://github.com/luciascarlet/tailwind-moon-vscode"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luciascarlet/tailwind-moon-vscode"
+  },
   "scripts": {
     "publish": "vsce publish"
   },
@@ -15,7 +18,14 @@
   "categories": [
     "Themes"
   ],
-  "keywords": ["dark", "tailwind", "syntax", "clean", "blue"],
+  "keywords": [
+    "dark",
+    "tailwind",
+    "syntax",
+    "clean",
+    "blue",
+    "moon"
+  ],
   "icon": "logo.png",
   "contributes": {
     "themes": [
@@ -33,7 +43,16 @@
         "label": "Tailwind Moon Blue",
         "uiTheme": "vs-dark",
         "path": "themes/tailwind-moon-blue.json"
+      },
+      {
+        "label": "Tailwind Ice",
+        "uiTheme": "vs",
+        "path": "themes/tailwind-ice.json"
       }
     ]
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "vsce": "^2.9.3"
   }
 }

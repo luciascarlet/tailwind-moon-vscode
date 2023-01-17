@@ -3,6 +3,9 @@
 A set of matching dark and light themes based on Tailwind CSS's default color scheme. These themes were based on Praveen Puglia's excellent "Tailwind Breeze" theme.
 
 ## Changelog
+## 3.0.2
+- Fix italics in Tailwind Ice that aren't present in Tailwind Moon because I forgot to remove from my personal tweaks
+
 ## 3.0.1
 - Fix terminal selection colours and double squiggly lines in Tailwind Ice
 
